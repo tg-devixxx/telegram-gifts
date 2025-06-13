@@ -40,3 +40,11 @@ getPrices();
 I may add a full API later when time allows.  
 `✅ Prices are updated every hour — it's recommended to sync your database with this file.`
 
+## 📞 Contacts
+DM: @MaxDevDes
+
+TON address for support:
+```
+UQCDPWs2B82-zb95x4_Qrx88sGuA23nwKpgi9nLg2rxwy9pr
+```
+
